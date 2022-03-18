@@ -1,1 +1,1 @@
-# alura-typescript-curso-2
+# alura-typescript-curso-3
